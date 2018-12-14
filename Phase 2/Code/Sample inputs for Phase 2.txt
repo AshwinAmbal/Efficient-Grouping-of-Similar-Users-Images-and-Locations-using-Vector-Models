@@ -1,0 +1,118 @@
+##SAMPLE INPUTS FOR PHASE2
+#Apply all 3 algorithms for all tasks 1,2,3,4,5.
+---------------------------------
+
+##TASK 1 
+#VALUE FOR K
+5
+
+----------------------------------
+
+##TASK 2 
+#VALUE FOR K:
+5
+
+#USERID:
+23260223@N04
+
+#IMAGEID:
+135426569
+
+#LOCATIONID:(Use devset_topic.xml file to decode this)
+10
+
+-----------------------------------
+
+##TASK 3
+___________________________
+#VALUE FOR K:
+6
+
+#MODEL:
+GLRLM
+
+#IMAGEID:
+2614112752
+____________________________
+
+#VALUE FOR K:
+5
+
+#MODEL:
+LBP3x3
+
+#IMAGEID:
+7931080032
+____________________________
+------------------------------------
+
+##TASK 4
+
+___________________________
+#VALUE FOR K:
+6
+
+#MODEL:
+GLRLM
+
+#LOCATIONID:(Use devset_topic.xml file to decode this)
+3
+____________________________
+
+#VALUE FOR K:
+5
+
+#MODEL:
+GLRLM3x3
+
+#LOCATIONID:(Use devset_topic.xml file to decode this)
+23
+____________________________
+
+-----------------------------------
+
+##TASK 5:
+____________________________
+#VALUE FOR K:
+5
+
+#LOCATIONID:(Use devset_topic.xml file to decode this)
+21
+_____________________________
+
+#VALUE FOR K:
+4
+
+#LOCATIONID:(Use devset_topic.xml file to decode this)
+16
+_____________________________
+--------------------------------------
+
+##TASK 6:
+_____________________________
+
+#VALUE FOR K:
+4
+______________________________
+
+
+#VALUE FOR K:
+6
+______________________________
+---------------------------------------
+
+##TASK 7
+_____________________________
+
+#VALUE FOR K:
+5
+______________________________
+
+
+#VALUE FOR K:
+6
+______________________________
+----------------------------------------
+
+
+

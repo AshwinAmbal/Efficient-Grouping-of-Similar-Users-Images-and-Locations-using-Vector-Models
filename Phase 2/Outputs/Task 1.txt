@@ -1,0 +1,272 @@
+Task 1 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+PCA
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 1
+
+Enter the Term Space (User, Img, Loc) to consider: User
+
+Enter the value of k: 5
+Total Variance Accounted for:  22.218974423119015
+
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['1963', 'musical', 'ritual', 'plato', 'josé', '1916', 'fauna', 'gumilla', 'pueden', 'historia']
+k =  1
+['cella', 'waldorf', 'southdoor', 'linear', 'hawaii', '49.5', 'panathenaic', 'lihue', 'paul ', 'barclay']
+k =  2
+['étaient', 'nationaux', 'encore', 'atshepsout', 'appelée', 'trésor', 'n a', 'egypte', 'bombardement', 'coupe']
+k =  3
+['palácio', 'vermelha', 'jóia', 'escadaria', 'colloquially', 'xix', 'margem', 'nördlichen', 'gemeindegottesdiensten', 'auszeichnung']
+k =  4
+['felix', '1793', 'community', 'count', 'revolution', 'belgische', '时', '鲁', '尔', 'vlag']
+
+
+
+Strength of the  5  Latent Semantics: 
+PC1 6.3
+PC2 6.2
+PC3 4.4
+PC4 2.8
+PC5 2.5
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PCA
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 1
+
+Enter the Term Space (User, Img, Loc) to consider: Img
+
+Enter the value of k: 5
+Total Variance Accounted for:  10.103425411263563
+
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['esto', 'maraca', 'medio', 'hoy', 'paz', 'rosenblat', 'palo', '1779', 'lhaya', 'academia']
+k =  1
+['martyr', 'writer', 'vienna', 'mérode', '1831', 'leslie', 'brabançonne', 'luxembourg', 'amid', 'martelaarsplaat']
+k =  2
+['guacharaca', 'pueden', 'guacharaco', 'modo', 'lópez', 'hilty', 'macho', '118', 'manara', 'hembra']
+k =  3
+['garten', 'jardim', 'botânico', 'botanische', 'cacti', 'abriga', 'arqueológico', 'indy', 'livre', 'aussterben']
+k =  4
+['sech', 'étex', 'bogen', 'triumphbogen', 'lemaire', 'ostfassade', 'auszug', 'feuchère', 'eingelassen.berühmt', 'schlachten']
+
+
+
+Strength of the  5  Latent Semantics: 
+PC1 3.7
+PC2 2.3
+PC3 1.8
+PC4 1.2
+PC5 1.1
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PCA
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 1
+
+Enter the Term Space (User, Img, Loc) to consider: Loc
+
+Enter the value of k: 5
+Total Variance Accounted for:  31.774149038764023
+
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['tanto', 'otro', 'su', 'día', 'aunque', 'este', 'sus', 'mucha', 'cual', 'guacharaca']
+k =  1
+['agreed', 'angel', '24th', '1790', 'flander', '1789', 'count', 'martyr', 'apart', 'remember']
+k =  2
+['prince', 'peterpan', 'd7000nikonnikon', 'panasoniclumixtz10', 'statuesinfomatique', 'lensroyal', 'manchester', 'victorianarchitecture', '1024mm', 'husband']
+k =  3
+['search', 'big', 'jewel', 'abbey', 'ben', 'westminster', 'parliament', 'parlamento', 'westminsterabbey', 'clocktower']
+k =  4
+['100view', 'exception', 'openstreetmap', 'practice', 'powerful', 'impact', 'democracy', 'achievement', 'evident', 'monastery']
+
+
+
+Strength of the  5  Latent Semantics: 
+PC1 9.2
+PC2 6.7
+PC3 5.6
+PC4 5.3
+PC5 5.0
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SVD
+
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 2
+
+Enter the Term Space (User, Img, Loc) to consider: User
+
+Enter the value of k: 5
+
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['1963', 'musical', 'ritual', 'plato', 'josé', '1916', 'fauna', 'pueden', 'agua', 'historia']
+k =  1
+['cella', 'hawaiiana', 'spencer', 'funded', 'barclay', 'predominant', 'mezzanine', 'demi', 'pennsylvania', 'astormemorialdoor']
+k =  2
+['statuette', 'laissé', 'adoptaient', 'momification', 'mur', 'voir', 'www.flickr.comphotosdalbera2076174389', 'tombe', 'prototype', 'momy']
+k =  3
+['palácio', 'encontra', 'anlässlich', 'actualmente', 'libri', 'protestantischen', 'historische', 'capela', 'abadia', '6º']
+k =  4
+['1793', 'felix', 'community', 'count', 'revolution', 'belgische', 'vlag', 'belge', '鲁', 'drapeau']
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SVD
+
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 2
+
+Enter the Term Space (User, Img, Loc) to consider: Img
+
+Enter the value of k: 5
+
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['esto', 'maraca', 'palo', 'academia', 'hoy', 'medio', 'resulta', 'lhaya', 'uso', 'miembro']
+k =  1
+['martyr', 'refugee', 'luxembourg', 'martelaarsplaat', 'leslie', 'brabançonne', 'writer', 'vienna', 'mérode', '1831']
+k =  2
+['guacharaca', 'pueden', 'modo', 'guacharaco', 'lópez', 'igual', 'manara', 'macho', '118', 'hembra']
+k =  3
+['garten', 'jardim', 'botânico', 'botanische', 'tlen', 'jsy', 'nationalmuseum', 'natur', 'lago', 'livre']
+k =  4
+['sech', 'étex', 'bogen', 'triumphbogen', 'verherrlichung', '558', 'revolutionärer', 'abschiedslied', 'zogen', 'gewölbebogen']
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SVD
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 2
+
+Enter the Term Space (User, Img, Loc) to consider: Loc
+
+Enter the value of k: 5
+
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['tanto', 'otro', 'su', 'día', 'este', 'aunque', 'sus', 'mayo', 'cual', 'mucha']
+k =  1
+['agreed', 'angel', 'flander', '1789', '24th', '1790', 'martyr', 'apart', 'caesar', 'count']
+k =  2
+['prince', 'peterpan', 'dyke', 'j.milton', 'w.hogarth', 'bupalus', 'courcy', 'antarctica', 'd’anger', 'bontemp']
+k =  3
+['big', 'abbey', 'search', 'westminster', 'mp', 'parlamento', 'ben', 'parliament', 'westminsterabbey', 'clocktower']
+k =  4
+['exception', '100view', 'olympic', 'openstreetmap', 'powerful', 'drum', 'impact', 'democracy', 'practice', 'survive']
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LDA
+
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 3
+
+Enter the Term Space (User, Img, Loc) to consider: User
+
+Enter the value of k: 5
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['vondran', 'stockholm', 'yonder', 'qwarfordt', 'lundquist', 'björn', 'mikevondran', 'december302008', 'en.wikipedia.orgwikichrist_the_redeemer_', 'musea']
+k =  1
+['guacharaca', 'venezuela', 'su', 'caraca', 'maraca', 'pero', 'cual', 'download', 'otra', 'mucho']
+k =  2
+['belgian', 'belgium', 'martelaarsplaat', 'martyr', 'dutch', 'jenneval', 'ancestreralpuebloan', 'walnut', 'dynamic', 'heasrtcastle']
+k =  3
+['webster', 'synonymous', 'cabrillonm', 'angkorarchaelogicalpark', 'carolscornerblog.info', 'ipodtouch4g', 'nikoncoolpixs210', 'carolpyle', 'tavern', '2011.07.28']
+k =  4
+['églisedelamadeleine', '20090813kensingtongarden', 'thevictoriansocietywalkstour', 'provence', 'aix', 'mètre', 'goodyear', '1870', 'lincoln', 'nouhailler']
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LDA
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 3
+
+Enter the Term Space (User, Img, Loc) to consider: Img
+
+Enter the value of k: 5
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['belgian', 'belgium', 'martyr', 'walnut', 'provence', 'brussel', 'aix', 'martelaarsplaat', 'fame', 'dutch']
+k =  1
+['martigue', 'knock', 'heaven ', 'knockin', 'zodiaque', 'mètre', 'moulage', 'séthi', 'siffleur', 'pluvier']
+k =  2
+['skelett', 'jardim', 'exemplar', 'botanical', 'botânico', 'brauhaus', 'prêcheur', 'archaeopteryx', 'garten', 'die']
+k =  3
+['maraca', 'guacharaca', 'lo', 'su', 'totumo', 'alvarado', 'tapara', 'indio', 'indígena', 'calcaño']
+k =  4
+['黎', 'cwt', 'infrared', 'https:en.wikipedia.orgwikieiffel_tower', 'mp3', 'esplanade', '法', '洲', '國', 'balustre']
+
+
+
+Enter the Image ID: 135426569
+
+
+Most Similar 5 Entities for ID =  135426569
+
+USING COSINE SIMILARITY:
+['135426732', 1.0]
+['10497788255', 0.9999981045209991]
+['336302378', 0.9999977888924697]
+['6250104087', 0.9999974651442477]
+['11367666426', 0.9999971629596217]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LDA
+
+Enter the reduction that you would like to perform 
+ 1.PCA 2.SVD 3.LDA : 3
+
+Enter the Term Space (User, Img, Loc) to consider: Loc
+
+Enter the value of k: 5
+
+Latent Semantic Term - Weight Pairs: 
+
+k =  0
+['angkor', 'colosseum', 'wat', 'cabrillo', 'chartre', 'cambodia', 'amien', 'angkorwat', 'siemreap', 'cologne']
+k =  1
+['agra', 'aztec', 'berlin', 'bigben', 'agrafort', 'newmexico', 'ben', 'neuesmuseum', 'brandenburg', 'india']
+k =  2
+['itza', 'chichen', 'belgian', 'paci', 'ara', 'brazil', 'castillodesanmarco', 'belgium', 'redeemer', 'riodejaneiro']
+k =  3
+['hearst', 'madeleine', 'toronto', 'cn', 'hearstcastle', 'cntower', 'batllo', 'gaudi', 'ontario', 'rosada']
+k =  4
+['cologne', 'athen', 'acropoli', 'montezuma', 'triomphe', 'bok', 'sanfrancisco', 'arcdetriomphe', 'köln', 'arc']
+

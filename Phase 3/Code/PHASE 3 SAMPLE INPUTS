@@ -1,0 +1,142 @@
+PHASE 3 SAMPLE INPUTS:
+--------------------------------
+
+___________________________________________________
+
+TASK 1:
+----------------------------------
+
+k=7
+
+____________________________________________________
+
+TASK 2:
+-----------------------------------
+REUSE THE GRAPH FROM TASK 1
+
+C=6
+
+_____________________________________________________
+
+TASK 3:
+------------------------------------
+REUSE THE GRAPH FROM TASK 1
+
+K=7
+
+______________________________________________________
+
+TASK 4:
+-------------------------------------
+
+SAMPLE 1:
+
+REUSE THE GRAPH FROM TASK 1
+
+K=6
+
+IMAGE IDS:
+
+2976144
+3172496917
+2614355710
+
+----------------------------------------
+SAMPLE 2:
+
+REUSE THE GRAPH FROM TASK 1
+
+K=7
+
+IMAGE IDS:
+
+27483765
+2492987710
+487287905
+
+___________________________________________________________
+
+TASK 5A:
+-------------------------------------------
+FOR NOW PERFORM LSH ON THE ENTIRE DATA
+I'LL UPDATE THE INPUTS FOR THIS TASK TO INCORPORATE THE VECTORS THAT HAVE TO BE GIVEN AS INPUT
+
+SAMPLE 1:
+
+L=3
+
+K=10
+-----------------
+SAMPLE 2:
+
+L=5
+
+K=7
+
+TASK 5B
+----------------------------------------------
+
+USE THE INDEX STRUCTURE CONSTRUCTED IN 5A
+
+SAMPLE 1:
+
+IMAGE ID: 330096935 
+t = 6
+---------------------
+SAMPLE 2:
+IMAGE ID: 2482756687
+t=5
+
+
+_______________________________________________________________
+
+TASK 6:
+
+SAMPLE 1:
+
+image 	   label
+-----------------
+3298433827 fort
+299114458  sculpture
+948633075  sculpture
+4815295122 sculpture
+5898734700 sculpture
+4027646409 fort
+1806444675 fort 
+4501766904 fort
+6669397377 sculpture
+3630226176 sculpture
+3630226176 sculpture
+3779303606 sculpture
+4017014699 sculpture
+
+
+
+SAMPLE 2:
+
+image 	    label
+-----------------
+40222616    art
+2313794286  art
+8633728015  art
+10523798314 art
+4132502983  art
+11545827426 art
+2987909153  stonemade
+7847027582  stonemade
+2951846628  stonemade
+461602133   stonemade
+9067738777  stonemade
+487287905   stonemade
+12496565503 stonemade
+202685456   dome
+2707217746  dome
+4760427447  dome
+481407628   dome 
+2482756687  dome
+6700317529  dome
+9203112839  dome
+
+
+
+
